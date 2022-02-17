@@ -1,0 +1,19 @@
+#link {
+    font-size: 1.4em; display:block; margin: auto;
+}
+
+#btn-submit{
+    width: 100%;
+}
+
+form {
+    border: 1px solid #efefee;
+    background-color: rgb(41, 204, 245);
+    padding: 30px;
+    border-radius: 20px;
+    -webkit-box-shadow : 10px 10px 5px 0px rgb(242, 235, 253);
+    -moz-box-shadow : 10px 10px 5px 0px rgba(219,219,219,1);
+    box-shadow: 10px 10px 5px 0px rgb(201, 200, 200);
+}
+
+
